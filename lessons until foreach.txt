@@ -1,4 +1,4 @@
-// string[] names = {"Ramya","Raja","Ananya","Tanya"};
+// string[] names = {"Ritaa","Rooja","Mila","Teena"};
 // foreach (string name in names)
 // {
 //     Console.WriteLine(name);
