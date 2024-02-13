@@ -3,6 +3,7 @@
 // {
 //     Console.WriteLine(name);
 // }
+/* Adding a string array and assigning values
 
 // string[] fraudulentOrderID = new string[3];
 // fraudulentOrderID[0] = "A123";
