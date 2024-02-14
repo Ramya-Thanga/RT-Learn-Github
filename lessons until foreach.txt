@@ -17,11 +17,14 @@
 // Console.WriteLine($"Seconditem {fraudulentOrderID[1]}");
 // Console.WriteLine($"Thirditem {fraudulentOrderID[2]}");
 
+/* Replacing the first item with F000
+
 // fraudulentOrderID[0]="F000";
 // Console.WriteLine($"ReAssign Item {fraudulentOrderID[0]}");
 
 // Console.WriteLine($"Length of the array {fraudulentOrderID.Length}");
 
+/* Calculation of discount based on expiry days 
 
 // Random days = new Random();
 // int daysTillExpiration = days.Next(12);
